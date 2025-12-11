@@ -2,4 +2,4 @@
 Prova da matéria de Programação para Dispositivos Moveis  
 
 
-Alunos: Nicolas Rocha, Rafael Henrrique
+Alunos: Nicolas Rocha, Rafael Pacifico
